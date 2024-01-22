@@ -1,8 +1,5 @@
 # Hi, I'm Sean Mullins 👋
 
-- 🎓 MS in Data Science, Fordham University (GPA: 4.0/4.0)
-- 🎓 BS in Finance, Boston College
-
 ## Interests
 
 - Data Science
