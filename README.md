@@ -1,11 +1,11 @@
-# Hi, I'm Sean Mullins 👋
+# Hi, I'm Sean 👋
 
 ## Interests
 
 - Data Science
 - Machine Learning and AI
 - Audio, Music, and DSP
-- Financial Analysis
+- Quant Analysis
 - Web Development
 
 - 🌐 [Portfolio](https://smullins.herokuapp.com/)
