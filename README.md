@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-- 💻 Writing Python for 4 years
+- 💻 I've been writing Python for 4 years
 - 📊 I am a Data Science enthusiast 
 - 📈 I enjoy building full-stack Machine Learning apps
 - 💼 I'm learning C++ at the moment to get more familiar with real-time systems
